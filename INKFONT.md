@@ -1,4 +1,4 @@
-# InkStruct 与 OpenInk 字库交换规范 v1
+# INKFONT 协议
 
 v1 实施规范 · 2026 年 11 月 20 日
 
